@@ -1,5 +1,3 @@
-// Brute-force: O(n).
-
 #include <stdio.h>
 
 int main(void) {
